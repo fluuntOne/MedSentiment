@@ -1,3 +1,5 @@
+![MedSentiment Project](https://github.com/fluuntOne/MedSentiment/blob/main/Media/MedSentiment%20Logo.png?raw=true)
+
 # MedSentiment: AI-Powered Sentiment Analysis for Healthcare
 
 MedSentiment is an open-source project aimed at developing an advanced sentiment analysis tool tailored specifically for the medical industry. Our mission is to empower
